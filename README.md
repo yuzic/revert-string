@@ -10,8 +10,9 @@ DIRECTORY STRUCTURE
 -------------------
 
       App/             Application 
-      sq.sql           Sql code and answers
       tests/           contains various tests for the basic application
+      --------------------------------------------------------------
+      sq.sql           Sql code and answers
 
 
 REQUIREMENTS
